@@ -322,7 +322,7 @@ Datasets used include:
 
 # 👨‍💻 Author
 
-**Jai Kumar**
+**Gaurav Pandey**
 
 B.Tech, Computer Science and Engineering
 
