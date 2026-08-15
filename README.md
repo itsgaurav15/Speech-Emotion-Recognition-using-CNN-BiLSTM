@@ -230,7 +230,7 @@ Speech-Emotion-Recognition-using-CNN-BiLSTM/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Iam-Jai-Kumar/Speech-Emotion-Recognition-using-CNN-BiLSTM
+git clone https://github.com/itsgaurav15/Speech-Emotion-Recognition-using-CNN-BiLSTM.git
 cd Speech-Emotion-Recognition-using-CNN-BiLSTM
 ```
 
